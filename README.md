@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Lavarthan. <img src="https://github.com/lavarthan/Lavarthan/blob/main/readme.gif" width="25"></h2>
+<h2> Hey there! I'm Lavarthan. <img src="https://github.com/lavarthan/Lavarthan/blob/main/readme.gif" width="500"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 

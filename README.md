@@ -14,8 +14,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🌐 &nbsp; HTML | CSS | PHP | Bootstrap 
+- 🛢 &nbsp; MySQL | Azure | Xampp | SQL server
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
 
 

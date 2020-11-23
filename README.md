@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently studying at University of Moratuwa
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and learning new hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Freelancer.
 - ✍️ &nbsp; Watching Movie and listening to music

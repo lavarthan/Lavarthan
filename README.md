@@ -2,12 +2,17 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
+##I am a student who passionate about data science who enjoys connecting the dots: be it ideas from different disciplines, people from different teams. I have an academic ##background in engineering, statistics, and machine learning.
+
+##My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across ##verticals to deliver high-performing AI solutions.
+
+##I'm expecting to graduate in February 2022 and I'm interested in full-time data science or machine learning roles.
 
 - 🔭 &nbsp; I’m currently studying at University of Moratuwa
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Freelancer.
-- ✍️ &nbsp; Watching Movie and listnening to music
+- ✍️ &nbsp; Watching Movie and listening to music
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>

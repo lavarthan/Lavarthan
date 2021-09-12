@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
-#<h3> 👨🏻‍💻 About Me </h3>
+<h3><b> 👨🏻‍💻 About Me <b></h3>
 
 - 🔭 &nbsp; I’m currently studying at University of Moratuwa
 - 🤔 &nbsp; Exploring new technologies and learning new hacks.

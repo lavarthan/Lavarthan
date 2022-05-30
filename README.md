@@ -1,4 +1,3 @@
-<h2 align="center"> <img src="https://github.com/lavarthan/Lavarthan/blob/main/readme.gif" width="500"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 

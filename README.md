@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Freelancer.
 - ✍️ &nbsp; Watching Movie and listening to music
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I belive, a perfect cup of tea can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 

@@ -3,7 +3,7 @@
 
 <h3><b> 👨🏻‍💻 About Me <b></h3>
 
-- 🔭 &nbsp; I’m currently studying at University of Moratuwa
+- 🔭 &nbsp; University of Moratuwa graduate
 - 🤔 &nbsp; Exploring new technologies and learning new hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Freelancer.
